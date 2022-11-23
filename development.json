@@ -1,6 +1,6 @@
 {
     "username":"ingoo",
-    "password":"root",
+    "password":"",
     "database":"board_dev",
     "host":"127.0.0.1",
     "dialect":"mysql"
